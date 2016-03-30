@@ -1,0 +1,23 @@
+Finding the optimal classifier: SVM classifier is the best one
+  15.64s -  Training Set Loaded - Examples: 42000
+2387.98s -             Training - Accuracy: 0.960+/-0.004 - Classifier: SVM
+2224.18s -             Training - Accuracy: 0.902+/-0.002 - Classifier: Linear SVC
+ 360.80s -             Training - Accuracy: 0.721+/-0.011 - Classifier: AdaBoostClassifier
+ 568.82s -             Training - Accuracy: 0.931+/-0.009 - Classifier: BaggingClassifier
+  22.35s -             Training - Accuracy: 0.944+/-0.004 - Classifier: ExtraTreesClassifier
+27687.44s -             Training - Accuracy: 0.944+/-0.003 - Classifier: GradientBoostingClassifier
+  23.96s -             Training - Accuracy: 0.941+/-0.003 - Classifier: RandomForestClassifier
+5979.21s -             Training - Accuracy: 0.910+/-0.002 - Classifier: LogisticRegression
+   7.91s -             Training - Accuracy: 0.848+/-0.003 - Classifier: RidgeClassifier
+1550.93s -             Training - Accuracy: 0.941+/-0.003 - Classifier: KNeighborsClassifier
+   2.59s -             Training - Accuracy: 0.800+/-0.005 - Classifier: NearestCentroid
+   8.74s -             Training - Accuracy: 0.531+/-0.007 - Classifier: GaussianNB
+ 111.22s -             Training - Accuracy: 0.858+/-0.004 - Classifier: DecisionTreeClassifier
+  34.75s -             Training - Accuracy: 0.678+/-0.277 - Classifier: LinearDiscriminantAnalysis
+  40.48s -             Training - Accuracy: 0.549+/-0.007 - Classifier: QuadraticDiscriminantAnalysis
+  30.98s -             Training - Accuracy: 0.873+/-0.006 - Classifier: PassiveAggressiveClassifier
+  17.21s -             Training - Accuracy: 0.912+/-0.004 - Classifier: SGDClassifier
+  17.48s -             Training - Accuracy: 0.865+/-0.008 - Classifier: Perceptron
+  10.39s -   Testing Set Loaded - Examples: 42000
+ 476.39s -             Finished
+ 
