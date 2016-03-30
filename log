@@ -5,7 +5,7 @@ Finding the optimal classifier: SVM classifier is the best one
  360.80s -             Training - Accuracy: 0.721+/-0.011 - Classifier: AdaBoostClassifier
  568.82s -             Training - Accuracy: 0.931+/-0.009 - Classifier: BaggingClassifier
   22.35s -             Training - Accuracy: 0.944+/-0.004 - Classifier: ExtraTreesClassifier
-27687.44s -             Training - Accuracy: 0.944+/-0.003 - Classifier: GradientBoostingClassifier
+27687.44s-             Training - Accuracy: 0.944+/-0.003 - Classifier: GradientBoostingClassifier
   23.96s -             Training - Accuracy: 0.941+/-0.003 - Classifier: RandomForestClassifier
 5979.21s -             Training - Accuracy: 0.910+/-0.002 - Classifier: LogisticRegression
    7.91s -             Training - Accuracy: 0.848+/-0.003 - Classifier: RidgeClassifier
